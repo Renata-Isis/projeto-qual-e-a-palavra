@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projeto-qual-e-a-palavra/static/css/main.429d482d.css",
+    "main.js": "/projeto-qual-e-a-palavra/static/js/main.8795397e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/projeto-qual-e-a-palavra/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/projeto-qual-e-a-palavra/index.html",
+    "main.429d482d.css.map": "/projeto-qual-e-a-palavra/static/css/main.429d482d.css.map",
+    "main.8795397e.js.map": "/projeto-qual-e-a-palavra/static/js/main.8795397e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/projeto-qual-e-a-palavra/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.429d482d.css",
+    "static/js/main.8795397e.js"
+  ]
+}
